@@ -12,8 +12,8 @@
     { "src": "/Bilalpass", "dest": "/Bilalpass.js" },
     { "src": "/ayan", "dest": "/ayan.js" },
     { "src": "/ayanpass", "dest": "/ayanpass.js" },
-    { "src": "/maqbool", "dest": "/maqbool.js" },
-    { "src": "/maqboolpasss", "dest": "/maqboolpass.js" },
+    { "src": "/rajab", "dest": "/rajab.js" },
+    { "src": "/rajabpasss", "dest": "/rajabpass.js" },
     { "src": "/Qayoom", "dest": "/Qayoom.js" },
     { "src": "/Qayoompass", "dest": "/Qayoompass.js" }
   ]
