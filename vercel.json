@@ -6,8 +6,8 @@
   "routes": [
     { "src": "/Atsham", "dest": "/Atsham.js" },
         { "src": "/Atshampass", "dest": "/Atshampass.js" },
-    { "src": "/salman", "dest": "/salman.js" },
-{ "src": "/salmanpass", "dest": "/salmanpass.js" },
+    { "src": "/razaq", "dest": "/razaq.js" },
+{ "src": "/razaqpass", "dest": "/razaqpass.js" },
     { "src": "/kamil", "dest": "/kamil.js" },
     { "src": "/kamilpass", "dest": "/kamilpass.js" },
     { "src": "/samand", "dest": "/samand.js" },
